@@ -71,15 +71,6 @@ namespace Cap09_Console_Files_TestePratico
 
         #region Metodos Locais
 
-        /// <summary>
-        /// Produz um cumprimento e revela o seu nome em função do genero
-        /// </summary>
-        /// <returns> a string com o cumprimento </returns>
-        public String DizOla()
-        {
-            return "Olá eu sou o " + this.nome + " e tenho " + this.idade + " anos";
-        }
-
         #endregion
 
         #region Getters & Setters
